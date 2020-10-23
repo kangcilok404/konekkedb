@@ -1,0 +1,3 @@
+<?php
+  $conn = new mysqli("localhost/domain", "root/username", "password", "namadbnya");
+?>
